@@ -1,45 +1,46 @@
-# PromptBay.io — Premium AI Domain for Sale
+# PromptBay.io – Premium Domain for Sale
 
-**PromptBay.io** is a short, memorable, and highly brandable domain name, ideal for the booming AI industry.
+## 🚀 Your Gateway to the AI Marketplace Revolution
 
----
-
-## 🚀 About PromptBay.io
-PromptBay.io is perfect for:
+**PromptBay.io** is a short, memorable, and brandable domain, perfectly suited for:
 - AI prompt marketplaces
-- Automation tools
-- Generative AI platforms
-- Prompt engineering communities
-- AI-driven startups
-
-The `.io` extension is widely recognized and trusted in the technology and AI sectors, making this domain an excellent investment.
+- Automation tools & SaaS platforms
+- AI-powered productivity software
+- Cutting-edge digital projects
 
 ---
 
-## 💡 Why Choose PromptBay.io?
-- **Short & Memorable** — Easy to remember, easy to type.
-- **AI-Centric Branding** — Instantly signals relevance to AI and technology.
-- **High Market Demand** — "Prompt" is a trending keyword in AI.
-- **Global Appeal** — Works for any market or audience.
+## 🔥 Why PromptBay.io?
+
+- **Premium branding** – Instantly recognizable and easy to remember.
+- **Tech-trusted `.io` extension** – Popular with startups and AI-focused businesses.
+- **Strong niche positioning** – Direct connection to AI, prompts, and automation.
+- **Versatile usage** – From marketplaces to API platforms.
 
 ---
 
-## 📊 Competitive Advantage
-A comparable domain — **PromptBay.ai** — is currently listed for **$2,500+** without offering additional value.  
-With **PromptBay.io**, you get the same branding potential **at a fraction of the price**, making it a smarter investment.
+## 📊 Market Comparison
+
+- **PromptBay.ai** → Listed at **$2,500**
+- **PromptBay.io** → Same brand value + broader appeal → **Available now at a more competitive price**
+
+Once purchased, **PromptBay.io** is gone forever.
 
 ---
 
-## 📩 Make an Offer
-If you're interested in acquiring this premium domain, contact us at:  
-**Email:** [sales@promptbay.io](mailto:sales@promptbay.io?subject=Inquiry%20about%20PromptBay.io)
+## 🛒 Buy Now
+
+Secure your premium domain instantly via Afternic:
+
+👉 [**Buy PromptBay.io Now**](https://www.afternic.com/domain/promptbay.io)
 
 ---
 
-## 🌐 Live Demo
-You can view the live landing page here:  
-[https://promptbay.io](https://promptbay.io)
+## 📩 Contact
+
+For inquiries:
+`sales@promptbay.io`
 
 ---
 
-**Disclaimer:** Domain sale only — no website or business included unless otherwise agreed.
+*© 2025 PromptBay.io – All rights reserved*
