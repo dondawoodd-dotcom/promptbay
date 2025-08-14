@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PromptBay.io - Premium AI Prompt Marketplace Domain for Sale">
+    <title>PromptBay.io - Domain for Sale</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f9f9f9;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background: #2d2d2d;
+            color: white;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.2em;
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        .highlight {
+            color: #e63946;
+            font-weight: bold;
+        }
+        .cta {
+            display: inline-block;
+            background: #e63946;
+            color: white;
+            padding: 15px 25px;
+            margin: 20px 0;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 5px;
+        }
+        .cta:hover {
+            background: #c81e34;
+        }
+        .compare {
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 20px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PromptBay.io is for Sale</h1>
+        <p>Premium AI Prompt Marketplace Domain</p>
+    </header>
+    <main>
+        <p>
+            Secure a <span class="highlight">powerful brand</span> in the booming AI industry.  
+            <strong>PromptBay.io</strong> is short, memorable, and perfect for an AI prompt marketplace, automation tool, or startup.
+        </p>
+
+
+        <div class="compare">
+            <h2>Why PromptBay.io?</h2>
+            <ul style="text-align: left; display: inline-block;">
+                <li>✅ Short, memorable, and easy to brand</li>
+                <li>✅ Perfect match for AI, automation, and digital markets</li>
+                <li>✅ Highly searchable keyword: "Prompt"</li>
+                <li>✅ .io extension — popular among startups and tech companies</li>
+                <li>💡 <strong>PromptBay.ai</strong> is listed at <span class="highlight">$2,500</span>,  
+                    but PromptBay.io is equally valuable — at a fraction of the price!</li>
+            </ul>
+        </div>
+
+
+        <p class="highlight">Only one owner — once it's gone, it's gone forever.</p>
+
+
+        <a href="mailto:sales@promptbay.io?subject=Inquiry%20about%20PromptBay.io" class="cta">Contact Now</a>
+    </main>
+
+
+    <footer>
+        © 2025 PromptBay.io — All rights reserved.
+    </footer>
+</body>
+</html>
